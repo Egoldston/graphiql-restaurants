@@ -11,7 +11,7 @@ Installation and Usage
 
 Terminal
 
-    run GraphQL server: node index.js
+    run server: node index.js
 
 Browser
 
